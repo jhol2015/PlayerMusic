@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Player</string>
+    <string name="play_music">Play Music</string>
+    <string name="_4_5_k">4.5 K</string>
+    <string name="follow">FOLLOW</string>
+    <string name="user">User</string>
+    <string name="curtir">Curtir</string>
+    <string name="avicii_stories">Avicii - Stories</string>
+    <string name="waiting_for_love">Waiting For Love</string>
+    <string name="_3_07">3:07</string>
+</resources>
